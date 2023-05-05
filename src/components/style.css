@@ -1,0 +1,74 @@
+
+.submitbutton{
+
+color:white;
+border-radius: 5px;
+border-color: white;
+
+
+}
+* {
+ display: flexbox;
+    background: url("\ stBG.jpg");
+    font-family: fantasy;
+}
+.loginBtn { 
+    border-color: white;
+    border-radius: 5px;
+}
+.deleteButton{
+    color: rgb(255, 2, 2);
+    border-radius: 5px;
+    
+}
+
+.title {
+color:rgb(255, 255, 255);
+
+font-weight: bolder;
+border-radius: 5px;
+text-align: center;
+background-color: cadetblue;
+
+
+
+}
+.userName{
+background-color: beige;
+color:black
+
+}
+
+.messageBtn {
+color:rgb(255, 255, 255);
+border-color:rgb(255, 255, 255);
+border-radius: 5px;
+
+}
+.searchbar{
+    color: white;
+
+}
+input::placeholder{
+    color: white;
+    width: fit-content;
+    height: fit-content;
+}
+a{
+    color: white;
+    
+}
+.registerBtn{
+border-radius: 5px;
+border-color: white;
+
+}
+.createpostBTN{
+    align-items: center;
+}
+
+.viewSinglePost{
+
+    border-radius: 5px;
+border-color: white;
+}
